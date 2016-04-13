@@ -1,0 +1,28 @@
+.form-group{
+	max-width: 60%;
+}
+.h1{
+	margin-left: 10px;
+}
+.kira{
+/*	float:left;*/
+	margin-top:5px;
+	margin-right: 10px;
+	margin-left: 10%;
+	padding-left: 25px;
+}
+/*
+.p{
+	padding-top:10px;
+}
+.aboutmetext{
+	background: white;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	margin-left: 70px;
+	margin-bottom: 40px;
+	margin-top:50px;
+	float:left;
+	width:50%;
+*/
+
+}
